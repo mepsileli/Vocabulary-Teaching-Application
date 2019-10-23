@@ -1,0 +1,39 @@
+National Institute of Standards and Technology (NIST) physicists have solved the seemingly intractable puzzle of how to control the quantum properties of individual charged molecules, or molecular ions. The solution is to use the same kind of "quantum logic" that drives an experimental NIST atomic clock.
+
+The new technique achieves an elusive goal, controlling molecules as effectively as laser cooling and other techniques can control atoms. Quantum control of atoms has revolutionized atomic physics, leading to applications such as atomic clocks. But laser cooling and control of molecules is extremely challenging because they are much more complex than atoms.
+
+The NIST technique still uses a laser, but only to gently probe the molecule; its quantum state is detected indirectly. This type of control of molecular ions -- several atoms bound together and carrying an electrical charge -- could lead to more sophisticated architectures for quantum information processing, amplify signals in basic physics research such as measuring the "roundness" of the electron's shape, and boost control of chemical reactions.
+
+The research is described in the May 11 issue of Nature and was performed in the NIST Boulder group that demonstrated the first laser cooling of atomic ions in 1978.
+
+"We developed methods that are applicable to many types of molecules," NIST physicist James Chinwen Chou said. "Whatever trick you can play with atomic ions is now within reach with molecular ions. Now the molecule will 'listen' to you -- asking, in effect, 'What do you want me to do?'"
+
+"This is comparable to when scientists could first laser cool and trap atoms, opening the floodgates to applications in precision metrology and information processing. It's our dream to achieve all these things with molecules," Chou added.
+
+Compared to atoms, molecules are more difficult to control because they have more complex structures involving many electronic energy levels, vibrations and rotations. Molecules can consist of many different numbers and combinations of atoms and be as large as DNA strands more than a meter long.
+
+The NIST method finds the quantum state (electronic, vibrational, and rotational) of the molecular ion by transferring the information to a second ion, in this case an atomic ion, which can be laser cooled and controlled with previously known techniques. Borrowing ideas from NIST's quantum logic clock, the researchers attempt to manipulate the molecular ion and, if successful, set off a synchronized motion in the pair of ions. The manipulation is chosen such that it can only trigger the motion if the molecule is in a certain state. The "yes" or "no" answer is signaled by the atomic ion. The technique is very gentle, indicating the molecule's quantum states without destroying them.
+
+"The molecule only jiggles if it is in the right state. The atom feels that jiggle and can transfer the jiggle into a light signal we can pick up," senior author Dietrich Leibfried said. "This is like Braille, which allows people to feel what is written instead of seeing it. We feel the state of the molecule instead of seeing it and the atomic ion is our microscopic finger that allows us to do that."
+
+"Moreover, the method should be applicable to a large group of molecules without changing the setup. This is part of NIST's basic mission, to develop precision measurement tools that maybe other people can use in their work," Leibfried added.
+
+To perform the experiment, NIST researchers scavenged old but still functional equipment, including an ion trap used in a 2004 quantum teleportation experiment. They also borrowed laser light from an ongoing quantum logic clock experiment in the same lab.
+
+The researchers trapped two calcium ions just a few millionths of a meter apart in a high-vacuum chamber at room temperature. Hydrogen gas was leaked into the vacuum chamber until one calcium ion reacted to form a calcium hydride (CaH+) molecular ion made of one calcium ion and one hydrogen atom bonded together.
+
+Like a pair of pendulums that are coupled by a spring, the two ions can develop a shared motion because of their physical proximity and the repulsive interaction of their electrical charges. The researchers used a laser to cool the atomic ion, thereby also cooling the molecule to the lowest-energy state. At room temperature, the molecular ion is also in its lowest electronic and vibrational state but remains in a mixture of rotational states.
+
+The researchers then applied pulses of infrared laser light -- tuned to prevent changes to the ions' electronic or vibrational states -- to drive a unique transition between two of more than 100 possible rotational states of the molecule. If this transition occurred, one quantum of energy was added to the two ions' shared motion. Researchers then applied an additional laser pulse to convert the change in the shared motion into a change in the atomic ion's internal energy level. The atomic ion then started scattering light, signaling that the molecular ion's state had changed and it was in the desired target state.
+
+Subsequently, researchers can then transfer angular momentum from the light emitted and absorbed during laser-induced transitions to, for example, orient the molecule's rotational state in a desired direction.
+
+The new techniques have a wide range of possible applications. Other NIST scientists at JILA previously used lasers to manipulate clouds of specific charged molecules in certain ways, but the new NIST technique could be used to control many different types of larger molecular ions in more ways, Chou said.
+
+Molecular ions offer more options than atomic ions for storing and converting quantum information, Chou said. For example, they could offer more versatility for distributing quantum information to different types of hardware such as superconducting components.
+
+The method could also be used to answer deep physics questions such as whether fundamental "constants" of nature change over time. The calcium hydride molecular ion has been identified as one candidate for answering such questions. In addition, for measurements of the electron's electric dipole moment (a quantity indicating the roundness of the particles charge distribution), the ability to precisely control all aspects of hundreds of ions at the same time would boost the strength of the signal that scientists want to measure, Chou said.
+
+The work was supported by the U.S. Army Research Office.
+
+Paper: C.W. Chou, C. Kurz, D.B. Hume, P.N. Plessow, D.R. Leibrandt, and D. Leibfried. 2017. Preparation and coherent manipulation of pure quantum states of a single molecular ion. Nature. May 11.

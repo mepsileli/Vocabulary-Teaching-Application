@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/ScienceArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/BusinessArticles.java" package="" timestamp="02-May-2017 09:33:48">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/EntertainmentArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/FashionArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/findWordInArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/LiteratureArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/PoliticsArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/ReligionArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/SportArticles.java" package="" timestamp="02-May-2017 09:33:49">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/Articles.java" package="" timestamp="02-May-2017 09:33:48">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/Test.java" package="" timestamp="10-May-2017 21:29:23">
+        <select from="287" to="287"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
