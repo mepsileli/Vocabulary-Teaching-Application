@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Dictionary.java" package="" timestamp="28-Mar-2017 17:07:41">
+        <select from="495" to="495"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="HTMLFilteredReader.java" package="" timestamp="28-Mar-2017 16:52:43">
+        <select from="495" to="495"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MySimpleURLReader.java" package="" timestamp="28-Mar-2017 16:55:10">
+        <select from="495" to="495"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../cs102 labs 2012/lab02/cs1 (1).jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
